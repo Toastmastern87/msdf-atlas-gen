@@ -1,1 +1,4 @@
 
+[submodule "msdfgen"]
+	path = msdfgen
+	url = https://github.com/Toastmastern87/msdfgen
