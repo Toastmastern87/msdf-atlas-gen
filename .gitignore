@@ -18,4 +18,10 @@ bin/*.lib
 output.png
 out/
 build/
-/cmake-gen.bat
+
+.vs/
+bin/
+bin-int/
+*.sln
+*.vcxproj
+*.vcxproj.filters
