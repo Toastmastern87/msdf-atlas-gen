@@ -1,3 +1,5 @@
+include	"msdfgen"
+
 project "msdf-atlas-gen"
 	toolset "v143"
 	kind "StaticLib"
